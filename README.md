@@ -1,5 +1,5 @@
 # transformer-translation
-Using Pytorch's nn.Transformer module to create an english to french neural machine translation model. Details in https://andrewpeng.dev/transformer-pytorch/.
+Using Pytorch's nn.Transformer module to create an english to french neural machine translation model. 
 
 # Training
 To install the prerequisites into a conda environment, run
